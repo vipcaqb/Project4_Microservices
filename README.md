@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![vipcaqb](https://circleci.com/<VCS>/vipcaqb/Project4_Microservices.svg?style=svg)](https://app.circleci.com/pipelines/github/vipcaqb/Project4_Microservices)
 
 ## Project Overview
 
